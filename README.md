@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning **PHP and NodeJS**
 
 <div>
-  <label>![Jefferson GitHub stats](https://github-readme-stats.vercel.app/api?username=myjefferson&show_icons=true&hide=contribs&theme=merko)</label>
-  <label>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myjefferson&layout=compact&theme=merko)</label>
+  ![Jefferson GitHub stats](https://github-readme-stats.vercel.app/api?username=myjefferson&show_icons=true&hide=contribs&theme=merko)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myjefferson&layout=compact&theme=merko)
 </div>
 
 <!--
