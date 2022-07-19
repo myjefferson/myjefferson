@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning **PHP and NodeJS**
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=myjefferson&show_icons=true&hide=contribs&theme=merko">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myjefferson&layout=compact&theme=merko">
+  <img src="https://github-readme-stats.vercel.app/api?username=myjefferson&show_icons=true&hide=contribs&theme=merko">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myjefferson&layout=compact&theme=merko">
 </div>
 
 <!--
