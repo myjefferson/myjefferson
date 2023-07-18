@@ -1,7 +1,7 @@
 <h1> Hi there 👋, I'm Jefferson Carvalho </h1>
 
 - 🌱 I’m currently learning **PHP, NodeJS and ReactJS**
-- 🔭 I’m currently working on **IESDE Brasil S/A**
+- 🔭 I’m currently working on **AUTOCONF**
 
 <div align="center">
   <img width="56%" height="190em" src="https://github-readme-stats.vercel.app/api?username=myjefferson&show_icons=true&hide=contribs&theme=tokyonight">
