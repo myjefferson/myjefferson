@@ -1,6 +1,6 @@
 <h1> Hi there 👋, I'm Jefferson Carvalho </h1>
 
-- 🌱 I’m currently learning **PHP, NodeJS and ReactJS**
+- 🌱 I’m currently learning **NodeJS, PHP and Laravel**
 - 🔭 I’m currently working on **AUTOCONF**
 
 <div align="center">
