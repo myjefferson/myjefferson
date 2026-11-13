@@ -3,11 +3,6 @@
 - 🌱 I’m currently learning **NodeJS, PHP and Laravel**
 - 🔭 I’m currently working on **HypeOne By NeoBPO**
 
-<div align="center">
-  <img width="56%" height="190em" src="https://github-readme-stats.vercel.app/api?username=myjefferson&show_icons=true&hide=contribs&theme=tokyonight">
-  <img width="41%" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myjefferson&layout=compact&theme=tokyonight">
-</div>
-
 ## Let's talk?
 <p>Here is my principal contacts</p>
 <div>
